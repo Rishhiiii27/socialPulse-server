@@ -10,7 +10,7 @@ const cors =require('cors')
 const cloudinary = require('cloudinary').v2;
 
 
-dotenv.config('./.env');
+dotenv.config('./.env');    
 
 // import {v2 as cloudinary} from 'cloudinary';
 
